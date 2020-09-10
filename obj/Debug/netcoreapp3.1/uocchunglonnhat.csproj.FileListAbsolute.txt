@@ -1,0 +1,13 @@
+C:\LN\uocchunglonnhat\bin\Debug\netcoreapp3.1\uocchunglonnhat.exe
+C:\LN\uocchunglonnhat\bin\Debug\netcoreapp3.1\uocchunglonnhat.deps.json
+C:\LN\uocchunglonnhat\bin\Debug\netcoreapp3.1\uocchunglonnhat.runtimeconfig.json
+C:\LN\uocchunglonnhat\bin\Debug\netcoreapp3.1\uocchunglonnhat.runtimeconfig.dev.json
+C:\LN\uocchunglonnhat\bin\Debug\netcoreapp3.1\uocchunglonnhat.dll
+C:\LN\uocchunglonnhat\bin\Debug\netcoreapp3.1\uocchunglonnhat.pdb
+C:\LN\uocchunglonnhat\obj\Debug\netcoreapp3.1\uocchunglonnhat.csprojAssemblyReference.cache
+C:\LN\uocchunglonnhat\obj\Debug\netcoreapp3.1\uocchunglonnhat.AssemblyInfoInputs.cache
+C:\LN\uocchunglonnhat\obj\Debug\netcoreapp3.1\uocchunglonnhat.AssemblyInfo.cs
+C:\LN\uocchunglonnhat\obj\Debug\netcoreapp3.1\uocchunglonnhat.csproj.CoreCompileInputs.cache
+C:\LN\uocchunglonnhat\obj\Debug\netcoreapp3.1\uocchunglonnhat.dll
+C:\LN\uocchunglonnhat\obj\Debug\netcoreapp3.1\uocchunglonnhat.pdb
+C:\LN\uocchunglonnhat\obj\Debug\netcoreapp3.1\uocchunglonnhat.genruntimeconfig.cache
